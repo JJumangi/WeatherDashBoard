@@ -5,7 +5,8 @@
 For this assignment:
 
 - I was attempting to create a interactive webpage that will allow users to look up the weather forecast for a selected city.
--
+- The forecast includes the date, current weather (image), temperature, windy speed and humidity of the city searched.
+- The user's previously searched cities will save to local storage, for users to quicky recall a city and look at it's forecast
 
 ## **Screenshot from a Working Page of the Website**
 
